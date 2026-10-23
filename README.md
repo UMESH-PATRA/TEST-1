@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UMESH_PATRA
-- 👀 I’m interested in cyber security and llm also in Data science.
-- 🌱 I’m currently learning BTECH 1st SEM.
+-  Hi, I’m @UMESH_PATRA
+-  I’m interested in cyber security and llm also in Data science.
+-  I’m currently learning BTECH 1st SEM.
 -  Hey there! If you are intrested in my work,or happen to like my work, please consider leaving a star⭐
